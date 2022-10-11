@@ -17,9 +17,9 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
   { name: 'Master Javascript', icon: <CodeIcon />, },
-  { name: 'Front End Development', icon: <CodeIcon />, },
-  { name: 'Back End Development', icon: <CodeIcon />, },
-  { name: 'Fulstack Development', icon: <CodeIcon />, },
+  { name: 'FrontEnd Development', icon: <CodeIcon />, },
+  { name: 'BackEnd Development ', icon: <CodeIcon />, },
+  { name: 'Fullstack Development', icon: <CodeIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
